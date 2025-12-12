@@ -16,3 +16,5 @@ Advent of Code (AoC) is an annual global programming competition held every Dece
 
 **Proof of Completion**  
 Below are screenshots showing my progress and completion of all 24 stars:
+![Advent of Code 2025 Progress](AOC_progress.png)
+![Advent of Code 2025 Completion](AOC_completion.jpg)
